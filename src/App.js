@@ -1,24 +1,27 @@
-import logo from './logo.svg';
 import './App.css';
+import "./styles/footer.css"
+import "./styles/header.css"
+import "./styles/common.css"
+import MainPage from "./components/MainPage";
+import LanguageSkills from "./components/LanguageSkills";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Ez egy nagyon menő teszt szöveg
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+      <header>
+          <div className={'nav-cim'}>
+              <h3 className={'nav-cim-header'}>Portfólia oldal</h3>
+          </div>
       </header>
+        <main style={{padding: "3rem"}}>
+            <MainPage/>
+            <LanguageSkills/>
+        </main>
+        <footer>
+            <p>
+            Csóti Roberta
+            </p>
+        </footer>
     </div>
   );
 }
