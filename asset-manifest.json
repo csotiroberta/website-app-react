@@ -1,15 +1,21 @@
 {
   "files": {
-    "main.css": "/website-app-react/static/css/main.5e5bc692.css",
-    "main.js": "/website-app-react/static/js/main.ab273a92.js",
+    "main.css": "/website-app-react/static/css/main.2ecc0142.css",
+    "main.js": "/website-app-react/static/js/main.3bcce098.js",
     "static/js/453.7fe91d22.chunk.js": "/website-app-react/static/js/453.7fe91d22.chunk.js",
+    "static/media/primeicons.svg": "/website-app-react/static/media/primeicons.6ed59f962963a4a73af2.svg",
+    "static/media/primeicons.eot": "/website-app-react/static/media/primeicons.ff0c4cd79b2ffca2de54.eot",
+    "static/media/primeicons.woff": "/website-app-react/static/media/primeicons.8931fda1930c3bd21e96.woff",
+    "static/media/primeicons.ttf": "/website-app-react/static/media/primeicons.a5c2a53d1ff7a9ff5933.ttf",
+    "static/media/profil.jpg": "/website-app-react/static/media/profil.48d09a3c0ac3f9964e05.jpg",
+    "static/media/primeicons.woff2": "/website-app-react/static/media/primeicons.024b32cc7bf399b1a847.woff2",
     "index.html": "/website-app-react/index.html",
-    "main.5e5bc692.css.map": "/website-app-react/static/css/main.5e5bc692.css.map",
-    "main.ab273a92.js.map": "/website-app-react/static/js/main.ab273a92.js.map",
+    "main.2ecc0142.css.map": "/website-app-react/static/css/main.2ecc0142.css.map",
+    "main.3bcce098.js.map": "/website-app-react/static/js/main.3bcce098.js.map",
     "453.7fe91d22.chunk.js.map": "/website-app-react/static/js/453.7fe91d22.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5e5bc692.css",
-    "static/js/main.ab273a92.js"
+    "static/css/main.2ecc0142.css",
+    "static/js/main.3bcce098.js"
   ]
 }
