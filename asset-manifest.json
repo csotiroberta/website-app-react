@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/website-app-react/static/css/main.2ecc0142.css",
-    "main.js": "/website-app-react/static/js/main.f54a96b6.js",
+    "main.js": "/website-app-react/static/js/main.dc0bb660.js",
     "static/js/453.7fe91d22.chunk.js": "/website-app-react/static/js/453.7fe91d22.chunk.js",
     "static/media/primeicons.svg": "/website-app-react/static/media/primeicons.6ed59f962963a4a73af2.svg",
     "static/media/primeicons.eot": "/website-app-react/static/media/primeicons.ff0c4cd79b2ffca2de54.eot",
@@ -12,11 +12,11 @@
     "static/media/primeicons.woff2": "/website-app-react/static/media/primeicons.024b32cc7bf399b1a847.woff2",
     "index.html": "/website-app-react/index.html",
     "main.2ecc0142.css.map": "/website-app-react/static/css/main.2ecc0142.css.map",
-    "main.f54a96b6.js.map": "/website-app-react/static/js/main.f54a96b6.js.map",
+    "main.dc0bb660.js.map": "/website-app-react/static/js/main.dc0bb660.js.map",
     "453.7fe91d22.chunk.js.map": "/website-app-react/static/js/453.7fe91d22.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2ecc0142.css",
-    "static/js/main.f54a96b6.js"
+    "static/js/main.dc0bb660.js"
   ]
 }
