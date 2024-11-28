@@ -1,8 +1,13 @@
 {
   "files": {
     "main.css": "/website-app-react/static/css/main.2deb7615.css",
-    "main.js": "/website-app-react/static/js/main.16e67bc1.js",
+    "main.js": "/website-app-react/static/js/main.5bcab3df.js",
     "static/js/453.7fe91d22.chunk.js": "/website-app-react/static/js/453.7fe91d22.chunk.js",
+    "static/media/data_analyst_basic.png": "/website-app-react/static/media/data_analyst_basic.3baf0aec0abe5da7e19b.png",
+    "static/media/excel_dashboard.png": "/website-app-react/static/media/excel_dashboard.f3fe8add6718acd1a78d.png",
+    "static/media/excel_expert.png": "/website-app-react/static/media/excel_expert.9ec9e51b0eefde07ac7d.png",
+    "static/media/data_visualization.png": "/website-app-react/static/media/data_visualization.8779f9cea874a56be5a2.png",
+    "static/media/excel_intermediate.png": "/website-app-react/static/media/excel_intermediate.2f409f13a9c8c5ea38a8.png",
     "static/media/excel_basics.png": "/website-app-react/static/media/excel_basics.41de0150af4f165b75bc.png",
     "static/media/primeicons.svg": "/website-app-react/static/media/primeicons.6ed59f962963a4a73af2.svg",
     "static/media/rs.svg": "/website-app-react/static/media/rs.b16c22033ad1a395b009.svg",
@@ -283,11 +288,11 @@
     "static/media/pe.svg": "/website-app-react/static/media/pe.d64e9732fcaa8f765994.svg",
     "static/media/id.svg": "/website-app-react/static/media/id.f624e2c8444a7794b357.svg",
     "main.2deb7615.css.map": "/website-app-react/static/css/main.2deb7615.css.map",
-    "main.16e67bc1.js.map": "/website-app-react/static/js/main.16e67bc1.js.map",
+    "main.5bcab3df.js.map": "/website-app-react/static/js/main.5bcab3df.js.map",
     "453.7fe91d22.chunk.js.map": "/website-app-react/static/js/453.7fe91d22.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2deb7615.css",
-    "static/js/main.16e67bc1.js"
+    "static/js/main.5bcab3df.js"
   ]
 }
