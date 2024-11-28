@@ -4,10 +4,9 @@ import Language from "./Language";
 const LanguageSkills = () => {
     return <>
         <div className={"container text-center"}>
+            <h2 className={"text-decoration-underline pb-3"}>Nyelvi készségeim</h2>
             <div className={"row align-item-start"}>
                 <div className={"col-6"}>
-                    <h2 className={"text-decoration-underline"}>Nyelvi készségeim</h2>
-
                     <img src={CountryFlags} alt={"County Flags"}/>
                 </div>
                 <div className={"col-6"}>
