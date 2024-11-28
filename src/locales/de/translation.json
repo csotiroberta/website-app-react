@@ -7,6 +7,36 @@
 			"subTitle": "Zertifikat nummer: GMK 71200",
 			"description": "In diesem Kurs habe ich die Grundlagen von Excel gelernt, die ich problemlos beherrschte",
 			"footer": "Registrationsnummer für Erwachsenenbildung: B/2021/000560"
+		},
+		"excel_intermediate": {
+			"title": "Excel - Mittleres Level",
+			"subTitle": "Zertifikat nummer: GMK 94668",
+			"description": "In diesem Kurs habe ich die Grundlagen von Excel gelernt, die ich problemlos beherrschte",
+			"footer": "Registrationsnummer für Erwachsenenbildung: B/2021/000560"
+		},
+		"excel_expert": {
+			"title": "Excel für Fortgeschrittene",
+			"subTitle": "Zertifikat nummer: GMK 94334",
+			"description": "In diesem Kurs habe ich die Grundlagen von Excel gelernt, die ich problemlos beherrschte",
+			"footer": "Registrationsnummer für Erwachsenenbildung: B/2021/000560"
+		},
+		"excel_dashboard": {
+			"title": "Excel Dashboards",
+			"subTitle": "Zertifikat nummer: GMK 95549",
+			"description": "In diesem Kurs habe ich die Grundlagen von Excel gelernt, die ich problemlos beherrschte",
+			"footer": "Registrationsnummer für Erwachsenenbildung: B/2021/000560"
+		},
+		"data_analyst_basic": {
+			"title": "Datenanalyse Grundlagen",
+			"subTitle": "Zertifikat nummer: GMK 96088",
+			"description": "In diesem Kurs habe ich die Grundlagen von Excel gelernt, die ich problemlos beherrschte",
+			"footer": "Registrationsnummer für Erwachsenenbildung: B/2021/000560"
+		},
+		"data_visualization": {
+			"title": "Data Visualization",
+			"subTitle": "Zertifikat nummer: GMK 96175",
+			"description": "In diesem Kurs habe ich die Grundlagen von Excel gelernt, die ich problemlos beherrschte",
+			"footer": "Registrationsnummer für Erwachsenenbildung: B/2021/000560"
 		}
 	}
 }

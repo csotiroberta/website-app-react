@@ -7,6 +7,36 @@
 			"subTitle": "Certificate number: GMK 71200",
 			"description": "In this course, I learned the basics of excel, which I easily mastered",
 			"footer": "Registration number of Adult Education: B/2021/000560"
+		},
+		"excel_intermediate": {
+			"title": "Excel Intermediate",
+			"subTitle": "Certificate number: GMK 94668",
+			"description": "In this course, I learned the basics of excel, which I easily mastered",
+			"footer": "Registration number of Adult Education: B/2021/000560"
+		},
+		"excel_expert": {
+			"title": "Excel Advanced",
+			"subTitle": "Certificate number: GMK 94334",
+			"description": "In this course, I learned the basics of excel, which I easily mastered",
+			"footer": "Registration number of Adult Education: B/2021/000560"
+		},
+		"excel_dashboard": {
+			"title": "Excel Dashboards",
+			"subTitle": "Certificate number: GMK 95549",
+			"description": "In this course, I learned the basics of excel, which I easily mastered",
+			"footer": "Registration number of Adult Education: B/2021/000560"
+		},
+		"data_analyst_basic": {
+			"title": "Data Analysis Fundamentals",
+			"subTitle": "Certificate number: GMK 96088",
+			"description": "In this course, I learned the basics of excel, which I easily mastered",
+			"footer": "Registration number of Adult Education: B/2021/000560"
+		},
+		"data_visualization": {
+			"title": "Data Visualization",
+			"subTitle": "Certificate number: GMK 96175",
+			"description": "In this course, I learned the basics of excel, which I easily mastered",
+			"footer": "Registration number of Adult Education: B/2021/000560"
 		}
 	}
 }

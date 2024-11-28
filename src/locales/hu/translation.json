@@ -7,6 +7,36 @@
 			"subTitle": "Tanúsítvány száma: GMK 71200",
 			"description": "Ezen a kurzuson megtanultam az excel alapjait, amiket könnyen elsajátítottam",
 			"footer": "Felnőtképzési tevékenység nyilvántartásba vételi száma: B/2021/000560"
+		},
+		"excel_intermediate": {
+			"title": "Excel középhaladó",
+			"subTitle": "Tanúsítvány száma: GMK 94668",
+			"description": "Ezen a kurzuson megtanultam az excel alapjait, amiket könnyen elsajátítottam",
+			"footer": "Felnőtképzési tevékenység nyilvántartásba vételi száma: B/2021/000560"
+		},
+		"excel_expert": {
+			"title": "Excel haladó",
+			"subTitle": "Tanúsítvány száma: GMK 94334",
+			"description": "Ezen a kurzuson megtanultam az excel alapjait, amiket könnyen elsajátítottam",
+			"footer": "Felnőtképzési tevékenység nyilvántartásba vételi száma: B/2021/000560"
+		},
+		"excel_dashboard": {
+			"title": "Dashboardok készítése Excelben",
+			"subTitle": "Tanúsítvány száma: GMK 95549",
+			"description": "Ezen a kurzuson megtanultam az excel alapjait, amiket könnyen elsajátítottam",
+			"footer": "Felnőtképzési tevékenység nyilvántartásba vételi száma: B/2021/000560"
+		},
+		"data_analyst_basic": {
+			"title": "Data Analyst alapismeretek",
+			"subTitle": "Tanúsítvány száma: GMK 96088",
+			"description": "Ezen a kurzuson megtanultam az excel alapjait, amiket könnyen elsajátítottam",
+			"footer": "Felnőtképzési tevékenység nyilvántartásba vételi száma: B/2021/000560"
+		},
+		"data_visualization": {
+			"title": "Adatvizualizáció",
+			"subTitle": "Tanúsítvány száma: GMK 96175",
+			"description": "Ezen a kurzuson megtanultam az excel alapjait, amiket könnyen elsajátítottam",
+			"footer": "Felnőtképzési tevékenység nyilvántartásba vételi száma: B/2021/000560"
 		}
 	}
 }

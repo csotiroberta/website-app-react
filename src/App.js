@@ -32,9 +32,15 @@ function App() {
           </div>
       </header>
         <main style={{padding: '3rem'}}>
-            <MainPage/>
-            <LanguageSkills/>
-            <Certificates t={t} language={language}/>
+            <div className={"py-3 my-2 border border-info"}>
+                <MainPage/>
+            </div>
+            <div className={"py-3 my-2 border border-info"}>
+                <LanguageSkills/>
+            </div>
+            <div className={"p-3 my-2 border border-info"}>
+                <Certificates t={t} language={language}/>
+            </div>
         </main>
         <footer>
         <p>
