@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/website-app-react/static/css/main.cfedae62.css",
-    "main.js": "/website-app-react/static/js/main.de5bf4ce.js",
+    "main.css": "/website-app-react/static/css/main.2deb7615.css",
+    "main.js": "/website-app-react/static/js/main.16e67bc1.js",
     "static/js/453.7fe91d22.chunk.js": "/website-app-react/static/js/453.7fe91d22.chunk.js",
+    "static/media/excel_basics.png": "/website-app-react/static/media/excel_basics.41de0150af4f165b75bc.png",
     "static/media/primeicons.svg": "/website-app-react/static/media/primeicons.6ed59f962963a4a73af2.svg",
     "static/media/rs.svg": "/website-app-react/static/media/rs.b16c22033ad1a395b009.svg",
     "static/media/sh-ac.svg": "/website-app-react/static/media/sh-ac.2f733db97b52ef32314b.svg",
@@ -281,12 +282,12 @@
     "static/media/bd.svg": "/website-app-react/static/media/bd.0ad8c443ef4d47ea0497.svg",
     "static/media/pe.svg": "/website-app-react/static/media/pe.d64e9732fcaa8f765994.svg",
     "static/media/id.svg": "/website-app-react/static/media/id.f624e2c8444a7794b357.svg",
-    "main.cfedae62.css.map": "/website-app-react/static/css/main.cfedae62.css.map",
-    "main.de5bf4ce.js.map": "/website-app-react/static/js/main.de5bf4ce.js.map",
+    "main.2deb7615.css.map": "/website-app-react/static/css/main.2deb7615.css.map",
+    "main.16e67bc1.js.map": "/website-app-react/static/js/main.16e67bc1.js.map",
     "453.7fe91d22.chunk.js.map": "/website-app-react/static/js/453.7fe91d22.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cfedae62.css",
-    "static/js/main.de5bf4ce.js"
+    "static/css/main.2deb7615.css",
+    "static/js/main.16e67bc1.js"
   ]
 }
