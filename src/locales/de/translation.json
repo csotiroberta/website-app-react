@@ -1,4 +1,12 @@
 {
 	"welcome": "Willkommen React",
-	"description": "Ez egy egyszerű nemzetközi oldal."
+	"certificate": {
+		"title": "Zertifikat",
+		"excel_basics": {
+			"title": "Excel - Grundlagen",
+			"subTitle": "Zertifikat nummer: GMK 71200",
+			"description": "In diesem Kurs habe ich die Grundlagen von Excel gelernt, die ich problemlos beherrschte",
+			"footer": "Registrationsnummer für Erwachsenenbildung: B/2021/000560"
+		}
+	}
 }

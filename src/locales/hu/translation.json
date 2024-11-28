@@ -1,4 +1,12 @@
 {
 	"welcome": "Üdvözöllek React",
-	"description": "Ez egy egyszerű nemzetközi oldal."
+	"certificate": {
+		"title": "Tanúsítványok",
+		"excel_basics": {
+			"title": "Excel alapozó",
+			"subTitle": "Tanúsítvány száma: GMK 71200",
+			"description": "Ezen a kurzuson megtanultam az excel alapjait, amiket könnyen elsajátítottam",
+			"footer": "Felnőtképzési tevékenység nyilvántartásba vételi száma: B/2021/000560"
+		}
+	}
 }

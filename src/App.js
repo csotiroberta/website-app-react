@@ -7,12 +7,16 @@ import LanguageSkills from "./components/LanguageSkills";
 import { useTranslation } from 'react-i18next';
 import "/node_modules/flag-icons/css/flag-icons.min.css";
 import {Button} from "primereact/button";
+import Certificates from './components/Certificates'
+import {useState} from 'react'
 
 function App() {
+    const [language, setLanguage] = useState('hu')
     const {i18n, t} = useTranslation();
 
     const changeL = (lang) => {
         i18n.changeLanguage(lang)
+        setLanguage(lang)
     };
 
   return (
@@ -30,6 +34,7 @@ function App() {
         <main style={{padding: '3rem'}}>
             <MainPage/>
             <LanguageSkills/>
+            <Certificates t={t} language={language}/>
         </main>
         <footer>
         <p>

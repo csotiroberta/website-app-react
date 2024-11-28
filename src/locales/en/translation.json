@@ -1,4 +1,12 @@
 {
 	"welcome": "Welcome to React!",
-	"description": "This is a simple internationalized app."
+	"certificate": {
+		"title": "Certificates",
+		"excel_basics": {
+			"title": "Excel for Beginners",
+			"subTitle": "Certificate number: GMK 71200",
+			"description": "In this course, I learned the basics of excel, which I easily mastered",
+			"footer": "Registration number of Adult Education: B/2021/000560"
+		}
+	}
 }
