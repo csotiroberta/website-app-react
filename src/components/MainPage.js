@@ -17,9 +17,11 @@ const MainPage = () => {
                     <h2>Csóti Roberta</h2>
                     <h3>Jogi asszisztens | Menedzser-asszisztens</h3>
                 </div>
-                <div className={"p-2"}>
-                    <p className={'fs-2 text-decoration-underline'}><i className={'pi pi-at px-3'} style={{fontSize: '1.5rem', color: 'black'}}/>roberta.csoti@gmail.com<i className={'pi pi-at px-3'}
-                        style={{fontSize: '1.5rem', color: 'black'}}/></p>
+                <div className={"pt-2"}>
+                    <p className={'fs-2'}><i className={'pi pi-inbox px-3'} style={{fontSize: '1.5rem', color: 'green'}}/>roberta.csoti@gmail.com</p>
+                </div>
+                <div className={"pb-2"}>
+                    <p className={'fs-2'}><i className={'pi pi-map-marker px-3'} style={{fontSize: '1.5rem', color: 'green'}}/>Szeged</p>
                 </div>
                 <div className={'p-3'}>
                     <a href={'https://www.linkedin.com/in/robertacsoti/'}><i className={"pi pi-linkedin px-3"} style={{fontSize: '2rem', color: '#0077B5'}}/></a>
