@@ -5,6 +5,22 @@ header {
     font-size: 1.5rem;
 }
 
+header .language-button {
+    background-color: #008080;
+    border: none;
+    transition: 1s;
+
+}
+
+header .language-button:hover {
+    background-color: #005050;
+}
+
+header .language-button:active {
+    border:none;
+    background-color: #005050;
+}
+
 .nav {
     display: flex;
     justify-content: right;

@@ -4,6 +4,7 @@ import { initReactI18next } from 'react-i18next';
 // Import your translation resources
 import hu from './locales/hu/translation.json';
 import en from './locales/en/translation.json';
+import de from './locales/de/translation.json';
 
 i18n
 	.use(initReactI18next) // Connect i18next with React
@@ -11,6 +12,7 @@ i18n
 		resources: {
 			hu: { translation: hu },
 			en: { translation: en },
+			de: { translation: de },
 		},
 		lng: 'hu', // Default language
 		fallbackLng: 'hu', // Fallback language when translation is missing

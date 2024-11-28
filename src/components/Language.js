@@ -3,9 +3,9 @@ const Language = ({
     languageName,
     languageSkill
 }) => {
-    return <div className={"row m-2 p-2"}>
-        <div className={"col-4"} style={{background: "lightgray"}}><p className={"text-center"}>{languageName}</p></div>
-        <div className={"col-8"}><p className={"text-start"}>{languageSkill}</p></div>
+    return <div className={"row py-3"}>
+        <div className={"col-4 justify-content-center align-self-center"} style={{background: "lightgray"}}><p>{languageName}</p></div>
+        <div className={"col-8 justify-content-center align-self-center"}><p className={"text-start"}>{languageSkill}</p></div>
     </div>
 }
 
