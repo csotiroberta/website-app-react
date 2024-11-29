@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/website-app-react/static/css/main.2deb7615.css",
-    "main.js": "/website-app-react/static/js/main.18b5fd7d.js",
+    "main.js": "/website-app-react/static/js/main.79e189d9.js",
     "static/js/453.7fe91d22.chunk.js": "/website-app-react/static/js/453.7fe91d22.chunk.js",
     "static/media/data_analyst_basic.png": "/website-app-react/static/media/data_analyst_basic.3baf0aec0abe5da7e19b.png",
     "static/media/excel_dashboard.png": "/website-app-react/static/media/excel_dashboard.f3fe8add6718acd1a78d.png",
@@ -12,6 +12,7 @@
     "static/media/primeicons.svg": "/website-app-react/static/media/primeicons.6ed59f962963a4a73af2.svg",
     "static/media/rs.svg": "/website-app-react/static/media/rs.b16c22033ad1a395b009.svg",
     "static/media/sh-ac.svg": "/website-app-react/static/media/sh-ac.2f733db97b52ef32314b.svg",
+    "static/media/bloodDonation.png": "/website-app-react/static/media/bloodDonation.1071c63695af43748075.png",
     "static/media/bo.svg": "/website-app-react/static/media/bo.2df6927ff85d4a69996b.svg",
     "static/media/mx.svg": "/website-app-react/static/media/mx.c23bb54608487157345e.svg",
     "static/media/es.svg": "/website-app-react/static/media/es.e3471d73993a1d499c2a.svg",
@@ -288,11 +289,11 @@
     "static/media/pe.svg": "/website-app-react/static/media/pe.d64e9732fcaa8f765994.svg",
     "static/media/id.svg": "/website-app-react/static/media/id.f624e2c8444a7794b357.svg",
     "main.2deb7615.css.map": "/website-app-react/static/css/main.2deb7615.css.map",
-    "main.18b5fd7d.js.map": "/website-app-react/static/js/main.18b5fd7d.js.map",
+    "main.79e189d9.js.map": "/website-app-react/static/js/main.79e189d9.js.map",
     "453.7fe91d22.chunk.js.map": "/website-app-react/static/js/453.7fe91d22.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2deb7615.css",
-    "static/js/main.18b5fd7d.js"
+    "static/js/main.79e189d9.js"
   ]
 }
