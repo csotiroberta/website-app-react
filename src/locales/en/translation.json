@@ -1,5 +1,25 @@
 {
-	"welcome": "Welcome to React!",
+	"welcome": "Welcome to my portfolio page!",
+	"profile": {
+		"name": "Roberta Csóti",
+		"work": "Legal assistant | Manager assistant",
+		"email": "roberta.csoti@gmail.com",
+		"town": "Szeged, Hungary",
+		"about": "About me",
+		"description": "I graduated as an assistant economic manager at the Faculty of Economics of the University of Szeged. I am currently working as a legal assistant. I am passionate about continuously improving my knowledge and skills. I have attended and I am still attending numerous language courses and data analysis workshops.",
+		"certificateButton": "Certificates",
+		"portfolioButton": "Portfolios"
+	},
+	"language": {
+		"title": "My language skills",
+		"languages": [
+			{"name": "Hungarian", "description": "Native language"},
+			{"name": "German", "description": "Conversational level / B2 type complex language exam"},
+			{"name": "English", "description": "Conversational level"},
+			{"name": "Korean", "description": "Korean language course, qualification ID: T/2023/000268-1. I am currently studying as an online course."},
+			{"name": "Chinese", "description": "Since October 2024, I have been taking an online language course to learn the basics of Chinese"}
+		]
+	},
 	"certificate": {
 		"title": "Certificates",
 		"excel_basics": {
@@ -40,10 +60,16 @@
 		}
 	},
 	"portfolio": {
-		"title": "Portfolio",
+		"title": "Portfolios",
+		"workInProgress": "(Work in progress)",
+		"buttonLabel": "Continue",
 		"autoDashboard": {
-			"title": "Autós excel dashboard",
-			"description": "Az autók eladásából keletkezett bevétel kimutatása"
+			"title": "Car excel dashboard",
+			"description": "Statement of income from the sale of cars"
+		},
+		"bloodDonation": {
+			"title": "Blood types",
+			"description": "Distribution of blood groups among blood donors"
 		}
 	}
 }

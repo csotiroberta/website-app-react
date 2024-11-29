@@ -6,10 +6,10 @@ import Portfolio from './Portfolio'
 const MainPage = ({t, language}) => {
 	return <>
 		<div className={"py-3 my-2 border border-info"}>
-			<Profile/>
+			<Profile t={t}/>
 		</div>
 		<div className={"py-3 my-2 border border-info"}>
-			<LanguageSkills/>
+			<LanguageSkills t={t}/>
 		</div>
 		<div className={"p-3 my-2 border border-info"}>
 			<Certificates t={t} language={language}/>

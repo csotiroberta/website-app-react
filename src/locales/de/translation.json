@@ -1,5 +1,25 @@
 {
-	"welcome": "Willkommen React",
+	"welcome": "Willkommen auf meiner Portfolio-Seite!",
+	"profile": {
+		"name": "Roberta Csóti",
+		"work": "Juristischer Mitarbeiter | Stellvertretender Manager",
+		"email": "roberta.csoti@gmail.com",
+		"town": "Szeged, Ungarn",
+		"about": "Über mich",
+		"description": "Ich habe eine Ausbildung zum stellvertretenden Wirtschaftsmanager an der Wirtschaftsfakultät der Universität Szeged absolviert. Zurzeit bin ich als juristische Mitarbeiterin tätig. Ich bin leidenschaftlich daran interessiert, mein Wissen und meine Fähigkeiten kontinuierlich zu verbessern. Ich habe zahlreiche Sprachkurse und Datenanalyse-Workshops besucht und besuche dies immer noch.",
+		"certificateButton": "Zertifikat",
+		"portfolioButton": "Portefeuille"
+	},
+	"language": {
+		"title": "Nyelvi készségeim",
+		"languages": [
+			{"name": "Ungarisch", "description": "Muttersprache"},
+			{"name": "Deutsch", "description": "Konversationsebene / Komplexe Sprachprüfung vom Typ B2"},
+			{"name": "Englisch", "description": "Konversationsebene"},
+			{"name": "Koreanisch", "description": "Koreanisch-Sprachkurs, Qualifikations-ID: T/2023/000268-1. Ich studiere derzeit als Online-Kurs."},
+			{"name": "Chinesisch", "description": "Seit Oktober 2024 belege ich einen Online-Sprachkurs, um die Grundlagen des Chinesischen zu erlernen"}
+		]
+	},
 	"certificate": {
 		"title": "Zertifikat",
 		"excel_basics": {
@@ -41,9 +61,15 @@
 	},
 	"portfolio": {
 		"title": "Portefeuille",
+		"workInProgress": "(Während der Bearbeitung)",
+		"buttonLabel": "Weiter",
 		"autoDashboard": {
-			"title": "Autós excel dashboard",
-			"description": "Az autók eladásából keletkezett bevétel kimutatása"
+			"title": "Auto Excel Dashboard",
+			"description": "Gewinn- und Verlustrechnung aus dem Verkauf von Kraftfahrzeugen"
+		},
+		"bloodDonation": {
+			"title": "Blutgruppe",
+			"description": "Verteilung der Blutgruppen unter den Blutspendern"
 		}
 	}
 }
