@@ -5,16 +5,16 @@ import Portfolio from './Portfolio'
 
 const MainPage = ({t, language}) => {
 	return <>
-		<div className={"py-3 my-2 border border-info"}>
+		<div className={"py-3 my-2"}>
 			<Profile t={t}/>
 		</div>
-		<div className={"py-3 my-2 border border-info"}>
+		<div className={"py-3 my-2"}>
 			<LanguageSkills t={t}/>
 		</div>
-		<div className={"p-3 my-2 border border-info"}>
+		<div className={"p-3 my-2"}>
 			<Certificates t={t} language={language}/>
 		</div>
-		<div className={"p-3 my-2 border border-info"}>
+		<div className={"p-3 my-2"}>
 			<Portfolio t={t}/>
 		</div>
 	</>
