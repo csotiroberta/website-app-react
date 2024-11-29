@@ -23,16 +23,16 @@ function App() {
     <div className="App">
       <header>
           <div className={'nav-cim'}>
+              <p className={'text-center'}>{t('welcome')}</p>
               <div className={'d-grid gap-2 d-md-flex justify-content-md-end'}>
                   <Button className={'language-button'} onClick={() => changeL('hu')}><span className={'fi fi-hu'}/></Button>
                   <Button className={'language-button'} onClick={() => changeL('en')}><span className={'fi fi-gb'}/></Button>
                   <Button className={'language-button'} onClick={() => changeL('de')}><span className={'fi fi-de'}/></Button>
               </div>
-              <p className={'nav-cim-header'}>{t('welcome')}</p>
           </div>
       </header>
         <main style={{padding: '3rem'}}>
-            <Routes>
+        <Routes>
                 <Route path={'/website-app-react'} element={<MainPage t={t} language={language}/>}/>
                 <Route path={'/autoDashboard'} element={<AutoDashboard t={t}/>}/>
             </Routes>

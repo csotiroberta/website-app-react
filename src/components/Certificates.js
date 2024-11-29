@@ -2,7 +2,7 @@ import CertificateCard from './CertificateCard'
 
 const Certificates = ({t, language}) => {
 	return <>
-		<div>
+		<div id={'certificate'}>
 			<h1>{t('certificate.title')}</h1>
 			<div className={'row'}>
 				<div className={'col-4'}>

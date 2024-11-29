@@ -1,7 +1,7 @@
 import PortfolioCustom from './PortfolioCustom'
 
 const Portfolio = ({t}) => {
-	return <>
+	return <div id={'portfolio'}>
 		<h1>
 			{t("portfolio.title")}
 		</h1>
@@ -13,7 +13,7 @@ const Portfolio = ({t}) => {
 				<PortfolioCustom t={t} color={'#A03232'} theme={'bloodDonation'} inProgress={true}/>
 			</div>
 		</div>
-	</>
+	</div>
 }
 
 export default Portfolio

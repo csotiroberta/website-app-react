@@ -32,8 +32,8 @@ const Profile = ({t}) => {
             <div className={"col-6"}>
                 <h1>{t("profile.about")}</h1>
                 <p className={"text-start fs-4"}>{t("profile.description")}</p>
-                <Button label={t("profile.certificateButton")} severity={"secondary"} className={"m-3 w-25"}/>
-                <Button label={t("profile.portfolioButton")} severity={"secondary"} className={"m-3 w-25"}/>
+                <a href={"#certificate"}><Button label={t('profile.certificateButton')} severity={'secondary'} className={'m-3 w-25'}/></a>
+                <a href={"#portfolio"}><Button label={t("profile.portfolioButton")} severity={"secondary"} className={"m-3 w-25"}/></a>
             </div>
         </div>
     </div>
