@@ -38,5 +38,12 @@
 			"description": "In this course, I learned the basics of excel, which I easily mastered",
 			"footer": "Registration number of Adult Education: B/2021/000560"
 		}
+	},
+	"portfolio": {
+		"title": "Portfolio",
+		"autoDashboard": {
+			"title": "Autós excel dashboard",
+			"description": "Az autók eladásából keletkezett bevétel kimutatása"
+		}
 	}
 }

@@ -2,13 +2,13 @@ import './App.css';
 import "./styles/footer.css"
 import "./styles/header.css"
 import "./styles/common.css"
-import MainPage from "./components/MainPage";
-import LanguageSkills from "./components/LanguageSkills";
 import { useTranslation } from 'react-i18next';
 import "/node_modules/flag-icons/css/flag-icons.min.css";
 import {Button} from "primereact/button";
-import Certificates from './components/Certificates'
 import {useState} from 'react'
+import MainPage from './components/MainPage'
+import {Route, Routes} from 'react-router-dom'
+import AutoDashboard from './components/AutoDashboard'
 
 function App() {
     const [language, setLanguage] = useState('hu')
@@ -32,15 +32,10 @@ function App() {
           </div>
       </header>
         <main style={{padding: '3rem'}}>
-            <div className={"py-3 my-2 border border-info"}>
-                <MainPage/>
-            </div>
-            <div className={"py-3 my-2 border border-info"}>
-                <LanguageSkills/>
-            </div>
-            <div className={"p-3 my-2 border border-info"}>
-                <Certificates t={t} language={language}/>
-            </div>
+            <Routes>
+                <Route path={'/website-app-react'} element={<MainPage t={t} language={language}/>}/>
+                <Route path={'/autoDashboard'} element={<AutoDashboard t={t}/>}/>
+            </Routes>
         </main>
         <footer>
         <p>

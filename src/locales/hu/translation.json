@@ -5,38 +5,51 @@
 		"excel_basics": {
 			"title": "Excel alapozó",
 			"subTitle": "Tanúsítvány száma: GMK 71200",
-			"description": "Ezen a kurzuson megtanultam az excel alapjait, amiket könnyen elsajátítottam",
+			"description": "Ezen a kurzuson megtanultam a mindennapi életben ma már elengedhetetlen excel alapismereteket (alapműveletek, Fkeres, Logikai függvények stb.)",
 			"footer": "Felnőtképzési tevékenység nyilvántartásba vételi száma: B/2021/000560"
 		},
 		"excel_intermediate": {
 			"title": "Excel középhaladó",
 			"subTitle": "Tanúsítvány száma: GMK 94668",
-			"description": "Ezen a kurzuson megtanultam az excel alapjait, amiket könnyen elsajátítottam",
+			"description": "Elsajátítottam a statisztikai függvények, szövegkezelő függvények, dátum és idő fgv-ek, Adatérvényesítés módszerét, illetve Diagrammokat és Pivot-kimutatások használatát.",
 			"footer": "Felnőtképzési tevékenység nyilvántartásba vételi száma: B/2021/000560"
 		},
 		"excel_expert": {
 			"title": "Excel haladó",
 			"subTitle": "Tanúsítvány száma: GMK 94334",
-			"description": "Ezen a kurzuson megtanultam az excel alapjait, amiket könnyen elsajátítottam",
+			"description": "Megtanultam a kurzuson az excel haladó funkcióit (irányított szűrés, fgv-ek egymásba ágyazása, Adatbázisfüggvények, INDEX, HOL.VAN fgv, Részösszegszámítás, Célérték keresés, Űrlapvezérlők)",
 			"footer": "Felnőtképzési tevékenység nyilvántartásba vételi száma: B/2021/000560"
 		},
 		"excel_dashboard": {
 			"title": "Dashboardok készítése Excelben",
 			"subTitle": "Tanúsítvány száma: GMK 95549",
-			"description": "Ezen a kurzuson megtanultam az excel alapjait, amiket könnyen elsajátítottam",
+			"description": "Pivot-kimutatások segítségével megtanultam Dashboard (irányítópultot) létrehozni, kimutatásdiagrammok segítségével.",
 			"footer": "Felnőtképzési tevékenység nyilvántartásba vételi száma: B/2021/000560"
 		},
 		"data_analyst_basic": {
 			"title": "Data Analyst alapismeretek",
 			"subTitle": "Tanúsítvány száma: GMK 96088",
-			"description": "Ezen a kurzuson megtanultam az excel alapjait, amiket könnyen elsajátítottam",
+			"description": "Szeret elemezni, információt gyorsan átadni, ezért fontosnak tartom, hogy jól válasszam meg a grafikont, amiben segítségemre volt ezt a kurzus.",
 			"footer": "Felnőtképzési tevékenység nyilvántartásba vételi száma: B/2021/000560"
 		},
 		"data_visualization": {
 			"title": "Adatvizualizáció",
 			"subTitle": "Tanúsítvány száma: GMK 96175",
-			"description": "Ezen a kurzuson megtanultam az excel alapjait, amiket könnyen elsajátítottam",
+			"description": "Az adat elemző keresett szakma manapság, de nehéz eligazodni az ezernyi hirdetés között. Adat elemző lehet vizualizációs szakértő, üzleti elemző, SQL fejlesztő adat mérnök vagy akár Excel specialista is. Ebben a kurzusban átbeszéltük, melyik fogalom, mit is jelent pontosan.",
 			"footer": "Felnőtképzési tevékenység nyilvántartásba vételi száma: B/2021/000560"
+		}
+	},
+	"portfolio": {
+		"title": "Portfóliók",
+		"workInProgress": "(Szerkesztés alatt)",
+		"buttonLabel": "Megtekintés",
+		"autoDashboard": {
+			"title": "Autós excel dashboard",
+			"description": "Az autók eladásából keletkezett bevétel kimutatása"
+		},
+		"bloodDonation": {
+			"title": "Vércsoport",
+			"description": "A vércsoportok eloszlása a véradók között"
 		}
 	}
 }

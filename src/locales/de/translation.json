@@ -38,5 +38,12 @@
 			"description": "In diesem Kurs habe ich die Grundlagen von Excel gelernt, die ich problemlos beherrschte",
 			"footer": "Registrationsnummer für Erwachsenenbildung: B/2021/000560"
 		}
+	},
+	"portfolio": {
+		"title": "Portefeuille",
+		"autoDashboard": {
+			"title": "Autós excel dashboard",
+			"description": "Az autók eladásából keletkezett bevétel kimutatása"
+		}
 	}
 }
