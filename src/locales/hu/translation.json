@@ -63,13 +63,18 @@
 		"title": "Portfóliók",
 		"workInProgress": "(Szerkesztés alatt)",
 		"buttonLabel": "Megtekintés",
+		"backButtonLabel": "Vissza",
 		"autoDashboard": {
 			"title": "Autós excel dashboard",
 			"description": "Az autók eladásából keletkezett bevétel kimutatása"
 		},
-		"bloodDonation": {
-			"title": "Vércsoport",
-			"description": "A vércsoportok eloszlása a véradók között"
+		"bicycleDashboard": {
+			"title": "Bringa Dashboard",
+			"description": "A biciklik és kellékeik eladásaiból keletkezett bevételek kimutatása",
+			"phase_1": {
+				"title": "Nyers adat réteg",
+				"description": "Az alábbi portfólióm egy 60920 soros adatbázisból áll, amely a bicikli eladásokról szolgál különböző adatokat. A forrástáblázat most rendelkezésemre állt, azonban ha nem így lett volna, akkor a Power Query segítségével töltöttem volna be, illetve a szükséges adattisztításokat és naprakész frissítést állítottam volna."
+			}
 		}
 	}
 }

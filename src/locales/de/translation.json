@@ -67,9 +67,9 @@
 			"title": "Auto Excel Dashboard",
 			"description": "Gewinn- und Verlustrechnung aus dem Verkauf von Kraftfahrzeugen"
 		},
-		"bloodDonation": {
-			"title": "Blutgruppe",
-			"description": "Verteilung der Blutgruppen unter den Blutspendern"
+		"bicycle": {
+			"title": "Bringa Dashboard",
+			"description": "A biciklik és kellékeik eladásaiból\nkeletkezett bevételek kimutatása\n"
 		}
 	}
 }

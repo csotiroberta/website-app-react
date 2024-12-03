@@ -10,7 +10,7 @@ const Portfolio = ({t}) => {
 				<PortfolioCustom t={t} color={'darkgrey'} theme={'autoDashboard'} inProgress={false}/>
 			</div>
 			<div className={"col-4 p-2"}>
-				<PortfolioCustom t={t} color={'#A03232'} theme={'bloodDonation'} inProgress={true}/>
+				<PortfolioCustom t={t} color={'brown'} theme={'bicycleDashboard'} inProgress={false}/>
 			</div>
 		</div>
 	</div>

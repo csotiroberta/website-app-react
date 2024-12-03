@@ -9,7 +9,7 @@ const PortfolioCustom = ({t, color, theme, inProgress}) => {
 			{t(`portfolio.${theme}.title`)}
 		</h2>
 		{inProgress ? <h4>{t("portfolio.workInProgress")}</h4> : <></>}
-		<img alt={"Autó Dashboard"} src={require(`../pictures/${theme}.png`)} width={"40%"}/>
+		<img alt={"Autó Dashboard"} src={require(`../pictures/${theme}.png`)} height={"200rem"}/>
 		<p className={"fs-5"}>{t(`portfolio.${theme}.description`)}</p>
 		<Button
 			label={t("portfolio.buttonLabel")}

@@ -67,9 +67,9 @@
 			"title": "Car excel dashboard",
 			"description": "Statement of income from the sale of cars"
 		},
-		"bloodDonation": {
-			"title": "Blood types",
-			"description": "Distribution of blood groups among blood donors"
+		"bicycle": {
+			"title": "Bringa Dashboard",
+			"description": "A biciklik és kellékeik eladásaiból\nkeletkezett bevételek kimutatása\n"
 		}
 	}
 }

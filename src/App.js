@@ -9,6 +9,7 @@ import {useState} from 'react'
 import MainPage from './components/MainPage'
 import {Route, Routes} from 'react-router-dom'
 import AutoDashboard from './components/AutoDashboard'
+import BicycleDashboard from "./components/BicycleDashboard";
 
 function App() {
     const [language, setLanguage] = useState('hu')
@@ -35,6 +36,7 @@ function App() {
         <Routes>
                 <Route path={'/website-app-react'} element={<MainPage t={t} language={language}/>}/>
                 <Route path={'/autoDashboard'} element={<AutoDashboard t={t}/>}/>
+                <Route path={'/bicycleDashboard'} element={<BicycleDashboard t={t}/>}/>
             </Routes>
         </main>
         <footer>
