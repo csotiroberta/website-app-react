@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/website-app-react/static/css/main.2deb7615.css",
-    "main.js": "/website-app-react/static/js/main.5f1c4947.js",
+    "main.js": "/website-app-react/static/js/main.f0dfb663.js",
     "static/js/453.7f532565.chunk.js": "/website-app-react/static/js/453.7f532565.chunk.js",
     "static/media/bicycleDashboard.png": "/website-app-react/static/media/bicycleDashboard.4909b0fbded1b4000092.png",
     "static/media/data_analyst_basic.png": "/website-app-react/static/media/data_analyst_basic.3baf0aec0abe5da7e19b.png",
@@ -313,11 +313,11 @@
     "static/media/pe.svg": "/website-app-react/static/media/pe.d64e9732fcaa8f765994.svg",
     "static/media/id.svg": "/website-app-react/static/media/id.f624e2c8444a7794b357.svg",
     "main.2deb7615.css.map": "/website-app-react/static/css/main.2deb7615.css.map",
-    "main.5f1c4947.js.map": "/website-app-react/static/js/main.5f1c4947.js.map",
+    "main.f0dfb663.js.map": "/website-app-react/static/js/main.f0dfb663.js.map",
     "453.7f532565.chunk.js.map": "/website-app-react/static/js/453.7f532565.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2deb7615.css",
-    "static/js/main.5f1c4947.js"
+    "static/js/main.f0dfb663.js"
   ]
 }
