@@ -11,6 +11,7 @@ import {Route, Routes} from 'react-router-dom'
 import AutoDashboard from './components/AutoDashboard'
 import BicycleDashboard from './components/BicycleDashboard'
 import ScrollToTop from './ScrollToTop'
+import Footer from './components/Footer'
 
 function App() {
 	const [language, setLanguage] = useState('hu')
@@ -42,9 +43,7 @@ function App() {
 					</Routes>
 			</main>
 			<footer>
-				<p>
-					Csóti Roberta
-				</p>
+				<Footer t={t}/>
 			</footer>
 		</div>
 	)

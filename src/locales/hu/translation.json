@@ -4,6 +4,14 @@
 		"buttonLabel": "Megtekintés",
 		"excelLabel": "Excel fájl elérhetősége Google Drive-on"
 	},
+	"footer": {
+		"description": "Kérdés, portfólió bekérés, önéletrajzbekérés esetén, kérem írjon egy e-mailt vagy keressen a megadott profilom egyikén!",
+		"email": "roberta.csoti@gmail.com",
+		"media_1": "Instagram",
+		"media_2": "Facebook",
+		"media_3": "LinkedIn",
+		"town": "Szeged"
+	},
 	"profile": {
 		"name": "Csóti Roberta",
 		"work": "Jogi asszisztens | Menedzser asszisztens",
@@ -62,6 +70,16 @@
 			"description": "Az adat elemző keresett szakma manapság, de nehéz eligazodni az ezernyi hirdetés között. Adat elemző lehet vizualizációs szakértő, üzleti elemző, SQL fejlesztő adat mérnök vagy akár Excel specialista is. Ebben a kurzusban átbeszéltük, melyik fogalom, mit is jelent pontosan.",
 			"footer": "Felnőtképzési tevékenység nyilvántartásba vételi száma: B/2021/000560"
 		}
+	},
+	"projectHistory": {
+		"title": "Projekt előzmények",
+		"image_1": "Adatok érvényessége",
+		"subTitle_1": "Adatok érvényessége",
+		"description_1": "A nyers adatok forrásának érvényessége és naprakészsége kulcsfontosságú a megbízható információk kinyeréséhez. Az érvényes adatok biztosítják, hogy valódi üzleti elemzések valósuljanak meg.",
+		"image_2": "Tervezés",
+		"subTitle_2": "Tervezés",
+		"description_2": "A projekt megkezdése előtt fontos kérdések fogalmazódtak meg a megfelelő adatok és diagrammok kiválasztásáról, valamint a megjelenés megtervezéséről.",
+		"description_3": "A Dashboard három fő munkalappal rendelkezik: Nyers adat réteg, Elemzés réteg és Prezentációs réteg – Dashboard. "
 	},
 	"portfolio": {
 		"title": "Portfóliók",
