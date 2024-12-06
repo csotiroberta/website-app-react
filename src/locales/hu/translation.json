@@ -1,5 +1,9 @@
 {
 	"welcome": "Üdvözöllek a portfólió oldalamon!",
+	"common": {
+		"buttonLabel": "Megtekintés",
+		"excelLabel": "Excel fájl elérhetősége Google Drive-on"
+	},
 	"profile": {
 		"name": "Csóti Roberta",
 		"work": "Jogi asszisztens | Menedzser asszisztens",
@@ -74,6 +78,54 @@
 			"phase_1": {
 				"title": "Nyers adat réteg",
 				"description": "Az alábbi portfólióm egy 60920 soros adatbázisból áll, amely a bicikli eladásokról szolgál különböző adatokat. A forrástáblázat most rendelkezésemre állt, azonban ha nem így lett volna, akkor a Power Query segítségével töltöttem volna be, illetve a szükséges adattisztításokat és naprakész frissítést állítottam volna."
+			},
+			"phase_2": {
+				"title": "Elemzés réteg",
+				"description": "Az „Elemzés réteg” , munkalapon számos kimutatást készítettem a Pivot-táblázat segítségével, ezeket pedig a „Prezentációs réteg” munkalapon jelenítettem meg vizuálisan különböző kimutatásdiagramokkal."
+			},
+			"phase_3": {
+				"title": "Térképdiagram",
+				"subtitle_1": "Térkép",
+				"description_1": "Számomra a legérdekesebb rész a térkép diagram volt. Miután elkészültem a kimutatással (Region, Country, Purchase Price), átmásoltam ugyanezeket az adatokat a Purchase Price kivételével.",
+				"subtitle_2": "KIMUTATÁSADATOT.VESZ függvény ",
+				"description_2": "Helyette, egy függvényt használtam, a „KIMUTATÁSADATOT.VESZ”. Erre azért volt szükség, mert az egyszerű Pivot-táblából nem tud az excel térkép diagrammot létrehozni",
+				"subtitle_3": "HAHIBA függvény ",
+				"description_3": "A „HAHIBA” függvény segítségével pedig kiküszöböltem, hogyha hibakódot jelenítene meg az excel (pl. nincs adat a sorban), akkor egy 0-át jelenítsen meg a hibakód helyett."
+
+			},
+			"phase_4": {
+				"description": "A térkép diagram azét is volt érdekes számomra, mert rendelkezésemre állt, hogy az egész világon mennyi az adott termékből való eladás, azonban én most csak a Kelet-Európai eladásokra szerettem volna nagyon hangsúlyt fektetni, ezért a Kelet-EU régiót és annak országait emeltem ki a térképen.",
+				"image_1": "Nyers adatok 1",
+				"image_2": "Nyers adatok 2",
+				"image_3": "Térkép"
+			},
+			"phase_5": {
+				"title": "Prezentációs réteg",
+				"description": "Ha a Prezentációs rétegen tovább haladunk a diagramokkal, akkor azt láthatjuk, hogy egy adott év negyedéveiben (Q1, Q2,Q3,Q4), azon belül is havi bontásban, mennyi volt a biciklik eladása.",
+				"image_1": "Elemzés réteg",
+				"image_2": "Prezentációs réteg"
+			},
+			"phase_6": {
+				"description": "Ha lefelé haladunk, akkor az alábbi kimutatás a biciklik szín szerinti eladásait mutatja.",
+				"image_1": "Elemzés réteg",
+				"image_2": "Prezentációs réteg"
+			},
+			"phase_7": {
+				"description": "Balra mellette a TOP 10 vásárlót jeleníti meg.",
+				"image_1": "Elemzés réteg",
+				"image_2": "Prezentációs réteg"
+			},
+			"phase_8": {
+				"description_1": "Az alábbi Pivot-tábla a termékek, illetve annak kategóriáinak, modelljeinek eladásából keletkezett bevételt mutatja.",
+				"description_2": "Feltáteles formázással jelöltem azokat az adatokat, amelyeket hangsúlyozni szerettem volna.",
+				"description_3": "Pl. Kék színnel jelöltem a legnagyobb bevételű termék összegét.",
+				"image_1": "Pivot tábla"
+			},
+			"phase_9": {
+				"title": "Szűrők",
+				"subtitle": "Összességében a Dashboard-ok ezeket az információkat szolgálják.",
+				"image": "Szűrő felület",
+				"description": "Természetesen az alábbi szeletők segítségével szűrhetünk tovább, mint például az évre, negyedévre, hónapra és régiókra."
 			}
 		}
 	}
