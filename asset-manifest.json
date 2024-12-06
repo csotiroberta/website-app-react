@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/website-app-react/static/css/main.2deb7615.css",
-    "main.js": "/website-app-react/static/js/main.f0dfb663.js",
+    "main.css": "/website-app-react/static/css/main.2ac8657e.css",
+    "main.js": "/website-app-react/static/js/main.6dc90e6d.js",
     "static/js/453.7f532565.chunk.js": "/website-app-react/static/js/453.7f532565.chunk.js",
     "static/media/bicycleDashboard.png": "/website-app-react/static/media/bicycleDashboard.4909b0fbded1b4000092.png",
     "static/media/data_analyst_basic.png": "/website-app-react/static/media/data_analyst_basic.3baf0aec0abe5da7e19b.png",
@@ -11,7 +11,8 @@
     "static/media/excel_intermediate.png": "/website-app-react/static/media/excel_intermediate.2f409f13a9c8c5ea38a8.png",
     "static/media/excel_basics.png": "/website-app-react/static/media/excel_basics.41de0150af4f165b75bc.png",
     "static/media/primeicons.svg": "/website-app-react/static/media/primeicons.6ed59f962963a4a73af2.svg",
-    "static/media/AD_0_1.png": "/website-app-react/static/media/AD_0_1.cc8f45d9c5119b66d715.png",
+    "static/media/planning.png": "/website-app-react/static/media/planning.cc8f45d9c5119b66d715.png",
+    "static/media/car-4965498_1280.jpg": "/website-app-react/static/media/car-4965498_1280.d0b1c47dc81d41b1d362.jpg",
     "static/media/AD_11.png": "/website-app-react/static/media/AD_11.cca5242baf43a5642392.png",
     "static/media/rs.svg": "/website-app-react/static/media/rs.b16c22033ad1a395b009.svg",
     "static/media/sh-ac.svg": "/website-app-react/static/media/sh-ac.2f733db97b52ef32314b.svg",
@@ -63,7 +64,7 @@
     "static/media/BD_7.png": "/website-app-react/static/media/BD_7.22c69f38e677d24a9dce.png",
     "static/media/bm.svg": "/website-app-react/static/media/bm.c52abee6992c8bef455f.svg",
     "static/media/om.svg": "/website-app-react/static/media/om.34a4898ce1904734af7e.svg",
-    "static/media/AD_0.png": "/website-app-react/static/media/AD_0.9ae31e9ce6fc6b238e44.png",
+    "static/media/projectHistory.png": "/website-app-react/static/media/projectHistory.9ae31e9ce6fc6b238e44.png",
     "static/media/af.svg": "/website-app-react/static/media/af.53c1a623655f53e11064.svg",
     "static/media/BD_4.png": "/website-app-react/static/media/BD_4.d2328e388b1f09c63c5a.png",
     "static/media/un.svg": "/website-app-react/static/media/un.bc6e9eb5b119f03cb2af.svg",
@@ -312,12 +313,12 @@
     "static/media/bd.svg": "/website-app-react/static/media/bd.0ad8c443ef4d47ea0497.svg",
     "static/media/pe.svg": "/website-app-react/static/media/pe.d64e9732fcaa8f765994.svg",
     "static/media/id.svg": "/website-app-react/static/media/id.f624e2c8444a7794b357.svg",
-    "main.2deb7615.css.map": "/website-app-react/static/css/main.2deb7615.css.map",
-    "main.f0dfb663.js.map": "/website-app-react/static/js/main.f0dfb663.js.map",
+    "main.2ac8657e.css.map": "/website-app-react/static/css/main.2ac8657e.css.map",
+    "main.6dc90e6d.js.map": "/website-app-react/static/js/main.6dc90e6d.js.map",
     "453.7f532565.chunk.js.map": "/website-app-react/static/js/453.7f532565.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2deb7615.css",
-    "static/js/main.f0dfb663.js"
+    "static/css/main.2ac8657e.css",
+    "static/js/main.6dc90e6d.js"
   ]
 }
