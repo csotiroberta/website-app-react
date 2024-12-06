@@ -9,7 +9,7 @@ const BackButton = ({t}) => {
         className={"mb-4"}
         link={true}
         onClick={() => navigate(`/website-app-react`)}
-        style={{background: 'lightgray', border: 'none', color: 'black', position: 'absolute', top:'19%', left:'50px'}}
+        style={{background: '#009090', border: 'none', color: 'black', position: 'fixed', bottom:'5%', left:'50px'}}
     />
 }
 

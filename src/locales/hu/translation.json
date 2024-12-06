@@ -70,7 +70,63 @@
 		"backButtonLabel": "Vissza",
 		"autoDashboard": {
 			"title": "Autós excel dashboard",
-			"description": "Az autók eladásából keletkezett bevétel kimutatása"
+			"description": "Az autók eladásából keletkezett bevétel kimutatása",
+			"phase_1": {
+				"image_1": "Power Query",
+				"title_1": "Adatok betöltése: Power Query",
+				"description_1": "A projekt alapját egy 800 soros adatbázis képezte, amelyet a Power Query (Lekérdezésszerkesztő) segítségével töltöttem be.",
+				"image_2": "Adatok",
+				"title_2": "Tisztítás, oszlopok törlése",
+				"description_2": "A betöltött adatbázisból eltávolítottam azokat az oszlopokat, amelyek nem voltak szükségesek a későbbi analízishez. Ez segít az adatok tisztábbá tételében és jobban fókuszálni a fontos információkra."
+			},
+			"phase_2": {
+				"description_1": "Nyers adat réteg: forrástáblázat bemutatása ",
+				"image_1": "Nyers adat réteg",
+				"description_2": "A „Nyers adat réteg” munkalapon láthatjuk a forrást, amiból dolgoztam. Beállítottam, hogy új adat felvitelekor automatikusan frissüljön az Excel fájl. Ez a megoldás biztosítja, hogy a Dashboard mindig naprakész információkkal rendelkezzen, amely elengedhetetlen a megbízható döntéshozatalhoz.",
+				"image_2": "Beállítások"
+			},
+			"phase_3": {
+				"title": "Autósdashboard - Elemzés réteg",
+				"description_1": "Ez a szekció bemutatja az adataink részletes elemzését, különös figyelmet fordítva a kimutatások készítésére és a pivot-táblázatok használatára.",
+				"description_2": "A 2. munkalapon található az „Elemzés réteg”. Ez az a munkalap, ahol a betöltött adatokból információt nyerünk ki. Itt történnek a számítások, pivot-táblázatok (kimutatások), szűrési feltételek stb. Az én esetemben első példaként szerettem volna kimutatni, hogy ez adott évben, 2019 és 2022 között, havi bontásban, mennyi volt az autósboltnak a bevétele (nem profit!). ",
+				"image": "Elemzés réteg"
+			},
+			"phase_4": {
+				"title": "Kimutatások készítése: Pivot-táblázatok használata",
+				"description_1": "A 2. kimutatásom az autó típusai szerint csoportosítja a bevételt.",
+				"description_2": "A 3. Pivot-táblám azt mutatja, hogy mennyit adtak el az új és a használt gépjárművekből.",
+				"description_3": "A 4. kimutatásnál az értékesítők munkáját mutatja ki. Összesen 2.13.941.000,- Ft értékben sikerült értékesíteniük átlagosan, ahol Jim teljesített legjobban, azonban ha szűrési feltételeket adunk meg (akár többet is), akkor ez a szám természetesen változhat.",
+				"image_1": "Pivot tábla 1",
+				"image_2": "Pivot tábla 2",
+				"image_3": "Pivot tábla 3"
+			},
+			"phase_5": {
+				"description": "Az. 5. kimutatás a Magyarország vármegyén belüli eladások alapján készült. Az alábbi képletre szükség volt, ha esetleg egy térképdiagrambanszerettem volna megjeleníteni (vagy akár a későbbiekben arra szeretném változtatni), akkor szükségünk van erre a függvényre. Atérképdiagram nem tud Pivot-táblázatból egyértelmű kimutatásdiagrammot létrehozni, ezért muszáj változtatnom rajta e függvénysegítségével (KIMUTATÁSADATOT.VESZ).",
+				"image_1": "Pivot tábla 4",
+				"image_2": "Függvény"
+			},
+			"phase_6": {
+				"title": "Szeletelők",
+				"image_1": "Excel elemzés",
+				"description_1": "Miután elkészítettem a Pivot-táblázatokat, mindegyikhez szeletelőt szúrtam be a könnyebb szűrés érdekében. ",
+				"image_2": "Kimutatáskapcsolatok",
+				"description_2": "Ahhoz minden szűrési feltétel minden diagramra érvényes legyen, „Jelentéskapcsolatot” kellett létrehoznom, majd bepipáltam azokat, amikre szerettem volna, hogy változzon a diagram, ha rászűrök. Jelen esetben mindegyiket beválasztottam. "
+			},
+			"phase_7": {
+				"title": "Prezentációs réteg - Dashboard",
+				"description_1": "Fontos tudni, - ahogyan már korábban is említettem – az elemzés megkezdése előtt ezen a munkalapon már megterveztem a kinézetet, így az elkészült kimutatások diagrammjait már csak el kellett helyeznem a megfelelő helyre, méretre vágnom, szépítgetni, a megfelelő színeket kiválasztanom.",
+				"description_2": "A Dashboard elkészítése során a cél egy világosan, áttekinthetően bemutatott információs rendszer kialakítása volt, amely lehetővé teszi a felhasználók számára a fontos adatok gyors megértését.",
+				"description_3": "A diagrammok elhelyezése a Dashboardon kulcsfontosságú lépés a vizuális adatok bemutatásában. Az elkészült kimutatások diagramjait gondosan kell elhelyezni, hogy a felhasználók könnyen navigálhassanak közöttük és gyorsan értékelhessék az adatokat.",
+				"subtitle_1": "Áttekinthetőség",
+				"subtitle_2": "Diagrammok elhelyezése",
+				"image": "Prezentációs réteg"
+			},
+			"phase_8": {
+				"image_1": "Szűrők",
+				"description_1": "Az alábbi szeletelők segítségével több szűrési feltételt megadhatunk.",
+				"image_2": "További szűrők",
+				"description_2": "Pl.: ha kiválasztjuk a 2022-es évet szűrési feltételként, akkor láthatjuk, hogy Johnny nevezetű értékesítő teljesített a legjobban, 2022. novemberében. Természetesen több szűrési feltételt is megadhatunk."
+			}
 		},
 		"bicycleDashboard": {
 			"title": "Bringa Dashboard",

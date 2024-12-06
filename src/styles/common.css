@@ -4,3 +4,24 @@
 	border-radius: 10px;
 	margin-bottom: 1rem;
 }
+
+
+body {
+	position: relative;
+	overflow: auto;
+}
+
+body::before {
+	content: '';
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background-image: url('/src/pictures/auto/car-4965498_1280.jpg');
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	opacity: 0.1;  /* Adjust the opacity here */
+	z-index: -1;  /* Make sure the content is on top */
+}

@@ -13,7 +13,7 @@ import BD_10 from '../pictures/bicycle/BD_10.png'
 import BD_11 from '../pictures/bicycle/BD_11.png'
 import BD_12 from '../pictures/bicycle/BD_12.png'
 import BD_13 from '../pictures/bicycle/BD_13.png'
-import {Button} from 'primereact/button'
+import DriveButton from './DriveButton'
 
 const BicycleDashboard = ({t}) => {
 
@@ -122,22 +122,7 @@ const BicycleDashboard = ({t}) => {
 				<h3 className={'my-5'}>{t('portfolio.bicycleDashboard.phase_9.description')}</h3>
 			</div>
 		</div>
-		<div className={'row mt-5'}>
-			<div className={'col-6 text-end'}>
-				<p className={'fs-3'}>{t('common.excelLabel')}</p>
-			</div>
-			<div className={'col-6 text-start'}>
-				<Button
-					label={t('common.buttonLabel')}
-					icon={'pi pi-cloud-download'}
-					link={true}
-					onClick={() => {
-						window.open(`https://drive.google.com/drive/folders/1qTY_KEi9NeqRjXLN5BG6hIyiccJlfLk_?usp=drive_link`)
-					}}
-					style={{background: 'lightblue', border: 'none', color: 'black', fontSize: '20px'}}
-				/>
-			</div>
-		</div>
+		<DriveButton t={t}/>
 	</div>
 }
 
